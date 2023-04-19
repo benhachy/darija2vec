@@ -1,0 +1,25 @@
+# Compiled Python files
+*.pyc
+
+# Cache files
+__pycache__/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.~*
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+*.iml
+*.pydevproject
+
+# Data 
+
+darija_corpus.txt
+.ipynb_checkpoints/
