@@ -1,0 +1,1 @@
+# darija2vec
