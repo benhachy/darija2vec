@@ -1,7 +1,7 @@
 ##  Darija2Vec
 
 
-Hello there ! 
+Hello there 👋 ! 
 
 In this repo, I trained Word2Vec model on 2100 tokens collected from moroccan rap lyrics, which is why I've chosen to name it Darija2Vec :D
 
